@@ -1,0 +1,170 @@
+h1 {
+    text-align: center;
+    color: rgb(79, 48, 48);
+}
+.box {
+    height: 500px;
+    width: auto;
+    background-image: url(asfahan.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    border-radius: 20px;
+}
+/* .box2 {
+    height: 600px;
+    width: auto;
+    background-image: url(asfahan3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+}
+.box3 {
+    height: 600px;
+    width: auto;
+    background-image: url(asfahan2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+} */
+.box4 {
+    height: 900px;
+    width: auto;
+    background-image: url(friend.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;  
+    border-radius: 20px; 
+}
+.box5 {
+    height: 600px;
+    width: auto;
+    background-image: url(friend2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;  
+    border-radius: 20px;
+}
+.box6 {
+    height: 600px;
+    width: auto;
+    background-image: url(arslan.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px; 
+    border-radius: 20px;
+}
+.box7 {
+    height: 600px;
+    width: auto;
+    background-image: url(faiq.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.box8 {
+    height: 600px;
+    width: auto;
+    background-image: url(amir.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.box9 {
+    height: 600px;
+    width: auto;
+    background-image: url(talib.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.box10 {
+    height: 600px;
+    width: auto;
+    background-image: url(ayan.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.box11 {
+    height: 600px;
+    width: auto;
+    background-image: url(arhan.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.text {
+    text-align: center;
+}
+.details {
+    text-align: center;
+    color:  rgb(79, 48, 48);;
+}
+.image-link {
+    text-decoration: none;
+    color: blue;
+}
+.foot {
+    height: 77px;
+    width: auto;
+    background-color: rgb(33, 31, 31);
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 20px;
+}
+.ars {
+    color: aliceblue;
+    text-align: center;
+}
+.foo{
+    text-align: center;
+    color:aliceblue;
+}
+.head {
+    height: 77px;
+    width: auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.link1 {
+    margin-left: 40px;
+    margin-top: 20px;
+}
